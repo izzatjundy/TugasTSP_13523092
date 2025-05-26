@@ -1,0 +1,8 @@
+Jumlah kota: 3
+Jarak antar kota:
+0 5 9
+5 0 6
+9 6 0
+
+Solusi TSP ditemukan dengan biaya minimum: 20 (0 -> 1 -> 2 -> 0)
+Waktu eksekusi: 0.035 ms
